@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookshelfApp</string>
+    <string name="booktitle">Title: </string>
+    <string name="author">Author: </string>
+    <string name="publisher">Publisher: </string>
+    <string name="pageCount">Page Count: </string>
+    <string name="publishDate">Publish Date: </string>
+    <string name="navigation_back">Back</string>
+</resources>
